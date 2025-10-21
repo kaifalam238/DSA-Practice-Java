@@ -6,7 +6,7 @@ This repository contains *Java DSA practice programs* for Arrays.
 
 ## ✅ Programs
 - *ReverseArray.java*( https://github.com/kaifalam238/DSA-Practice-Java/blob/main/Arrays/ReverseArray.java ) – Reverses an array (O(n))
-- *PalindromeCheck.java* – Checks palindrome (O(n))
+- *PalindromeCheck.java* (https://github.com/kaifalam238/DSA-Practice-Java/blob/main/Arrays/ispalindrome.java ) – Checks palindrome (O(n))
 
 ## 👤 Author
 *Md Kaif Alam*  
